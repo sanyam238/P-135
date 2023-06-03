@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 30px;
+    margin-top: 0px;
+    width: 100%;
+    
+}
+
+button{
+    font-size: 30px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-top: 145px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+div{
+color: white;
+width: 100%;
+position: fixed;
+background-color: gray;
+font-size: 30px;
+line-height: 2;
+bottom: 0px;
+}
